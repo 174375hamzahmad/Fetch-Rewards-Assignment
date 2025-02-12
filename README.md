@@ -45,7 +45,7 @@ Deployed here:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/174375hamzahmad/Fetch-Rewards-Assignment.git
 2. **Change directory:**
    ```bash
    cd your-repo
